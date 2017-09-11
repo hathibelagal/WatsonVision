@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WatsonVision</string>
+    <string name="api_key">YOUR API KEY</string>
+</resources>
